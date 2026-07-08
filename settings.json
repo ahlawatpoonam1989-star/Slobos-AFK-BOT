@@ -1,8 +1,8 @@
 {
-  "name": "AFK Bot",
+  "name": "Admin bot",
   "bot-account": {
     "username": "Technoblade",
-    "password": "",
+    "password": "001",
     "type": "offline"
   },
   "server": {
